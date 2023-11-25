@@ -1,0 +1,78 @@
+.headerContainer { 
+    position: fixed;
+    top: 0;
+    left: 20px;
+    margin-top: 25px;
+
+    text-transform: uppercase;
+
+    color: #AD7FB1;
+
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footerContainer { 
+    position: fixed;
+    bottom: 12px;
+    left: calc(50% - 50px);
+
+    text-align: center;
+    font-size: 10px;
+    text-transform: uppercase;
+
+
+    color: #7D7D7D;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+}
+
+.contactContainer { 
+    display: flex;
+    gap: 12px;
+
+
+}
+
+.contactContainer a { 
+    text-decoration: none;
+    font-size: 12px;
+    margin-bottom: 4px;
+
+    color: #7D7D7D;
+
+    transition: all 0.5s ;
+
+}
+
+.contactContainer a:hover { 
+    color: #AD7FB1; 
+    text-decoration-line: underline;
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 800px) {
+    .headerContainer { 
+        font-size: 13px;
+        left: 20px;
+        margin-top: 21px;
+        left: calc(50% - 70px);
+
+    }
+
+
+}

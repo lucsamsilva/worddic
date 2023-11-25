@@ -1,0 +1,65 @@
+.contentCard { 
+    padding: 12px;
+}
+
+.wordText { 
+    color: #AD7FB1;
+
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+  
+}
+
+.subTitleWord { 
+    color: #7D7D7D;
+
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.meanCard {
+    text-align: center;
+    margin-top: 26px;
+}
+
+.meanLinks { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+
+    margin-top: 15px;
+
+    text-transform: uppercase;
+}
+
+.meanLinks a { 
+    text-decoration: none;
+
+    color: #7D7D7D;
+
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+    
+
+    transition: all 0.5s;
+}
+
+a:hover { 
+    color: #AD7FB1; 
+    text-decoration-line: underline;
+
+
+}
