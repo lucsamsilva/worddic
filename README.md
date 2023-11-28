@@ -1,5 +1,8 @@
 # WORDDIC 
-[![NPM](https://github.com/lucsamsilva/worddic/blob/main/LICENSE) 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://github.com/lucsamsilva/worddic/blob/main/LICENSE)
+
+
 
 # Sobre o projeto
 
@@ -11,7 +14,8 @@ A aplicação consiste em um dicionário de palavras aleatórias, onde o é poss
 sites terceiros.  
 
 ## Layout mobile
-![Mobile 1](https://github.com/lucsamsilva/assets/blob/main/Worddic/layout-mobile.png) 
+<img src="https://github.com/lucsamsilva/assets/blob/main/Worddic/layout-mobile.png"  alt="Descrição da Imagem" width="250" >
+
 ## Layout web
 ![Web 1](https://github.com/lucsamsilva/assets/blob/main/Worddic/layout-web.png)
 
